@@ -1,0 +1,15 @@
+{
+  "name": "ruz/php",
+  "authors": [
+    {
+      "name": "ruz",
+      "email": "ruziev_zhz@edu.surgu.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/"
+    }
+  },
+  "require": {}
+}
