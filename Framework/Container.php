@@ -9,6 +9,7 @@ class Container
     }
 
 
+
     public static function getRouter(): Router
     {
         return new Router(self::getRequest());
